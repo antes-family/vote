@@ -1,7 +1,8 @@
 name = "vote"
 compatibility_date = "2026-03-24"
 
-pages_build_output_dir = "./dist"
+[assets]
+directory = "./dist"
 
 [build]
 command = "npm run build"
