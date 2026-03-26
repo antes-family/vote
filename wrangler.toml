@@ -1,8 +1,0 @@
-name = "vote"
-compatibility_date = "2026-03-24"
-
-[assets]
-directory = "./dist"
-
-[build]
-command = "npm run build"
